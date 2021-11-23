@@ -1,2 +1,2 @@
-# Happy
+# Model
 Team Project
