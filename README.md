@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=데돌이_데이터분석&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=데돌이_머신러닝&fontSize=40)
 
 ------------
 
@@ -14,7 +14,7 @@
 
 ------------
 
-### 📊 데이터 분석 과정
+### 📊 모델 생성 과정
 
 #### 🌲트리 모델의 경우
 
@@ -35,7 +35,7 @@
 
 ------------
 
-### 🖥️ 데이터 분석 모델
+### 🖥️ 머신러닝 모델
 
 #### 1. 로지스틱 회귀 (Logistic Regression)
 
